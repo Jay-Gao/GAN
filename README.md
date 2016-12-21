@@ -1,7 +1,7 @@
 # GAN
 mainly implement dcgan model with [tensorflow](https://www.tensorflow.org/) and [tensorlayer](http://tensorlayer.readthedocs.io/en/latest/)
 (a high-level library for deep learning and reforcement learning based on tensorflow)   
-For now, this is just a simple try on handwritten digit generating.
+For now, this is just a simple try on handwritten digit generating. train.csv in the code is the data file, you should downlaod yourself.
 In the future, I will try more complex examples.
 ## Dependencies
 python 3.5   
